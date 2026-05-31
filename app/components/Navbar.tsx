@@ -131,7 +131,6 @@ const Navbar = () => {
 
                 <UserButton
                   showName={false}
-                  afterSignOutUrl="/"
                   appearance={{
                     elements: {
                       avatarBox:
